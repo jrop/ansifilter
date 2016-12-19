@@ -1,0 +1,9 @@
+{
+  "name": "ansifilter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.4.0"
+  }
+}
