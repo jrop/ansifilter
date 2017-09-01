@@ -1,5 +1,7 @@
 # ansifilter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/ansifilter.svg)](https://greenkeeper.io/)
+
 [ansifilter](https://sourceforge.net/projects/ansifilter/) for Node.JS
 
 ## Installation
